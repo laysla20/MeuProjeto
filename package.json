@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 {
-    "name": "meu-projeto",
-    "version": "1.0.0",
+    "name": "meu-nome-de-projeto-v2",
+    "version": "2.0.0",
     "description": "",
     "main": "index.js",
     "scripts": {
@@ -13,6 +12,3 @@
         "nodemon": "^3.1.7"
     }
 }
-=======
- 
->>>>>>> 75cf78fd12fa4e1723d35e00ade4e867b3857900
